@@ -759,14 +759,3 @@ int main(){
 //rvalue: temporary value stored into lvalue
 
 
-//Inquietutde (que je ne trouve pas de travail) => volonté de tout controler
-//DIfficile de remettre en question sa position (meme si louable souvent) et volonté de toujours avoir raison 
-//Pense indéniablement que ma priorité devrait etre celle qu'elle pense (trouver un travail),
-//ce n'est pas faux mais anéanti toute importance de mes autres activités (c'est du loisir et c'est tout)
-//"Je ne travail soit disant plus autant qu'avant", etc... (Trad: je ne fais plus autant qu'elle voudrait que je fasse dans tel activité pour la rassurer suffisament)
-//Créer du conflit et de la confusion et fit culpabiliser(tu n'es pas si malheureux, tu te donnes pas assez ...) un peu et réduit ma clarté pour construire mon projet.
-//L'intention est bonne mais la manière de faire est maladroite malheureusement.
-//Comprendre le mécanisme permet de prendre de la distance (pour ne pas agir dans la crainte de l'autre par exemple et d'acheter la paix) et de faire les choses plus lucidement, 
-//L'impact sur le bien-être ensemble est non négligeable.
-//anxiety et s'emballe facilement
-//ecrire aussi ds carnet notes telephone
